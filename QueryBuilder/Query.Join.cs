@@ -70,6 +70,6 @@ namespace SqlKata
         {
             return Join(j => j.JoinWith(table).AsCross());
         }
-
+        //mark
     }
 }
